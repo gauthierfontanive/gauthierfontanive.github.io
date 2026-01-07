@@ -2587,3 +2587,8 @@ details.abstract p:last-child {
     text-justify: inter-word;
   }
 }
+
+#contact .box {
+  text-shadow: none;
+  color: #111;
+}
